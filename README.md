@@ -3,7 +3,7 @@
 This Android application is designed to assist deaf individuals by vibrating whenever their name is spoken in their vicinity. The app works in the background, enabling users to be alerted when someone is calling them, fostering better communication and interaction.
 
 <p align="center">
-  <img src="https://github.com/Saksham-Lakhera/smart-App-for-deaf/blob/master/pic.jpg" alt="App Screenshot" width="400">
+  <img src="https://github.com/Saksham-Lakhera/smart-App-for-deaf/blob/master/pic.jpg" alt="App Screenshot" width="200">
 </p>
 
 ---
